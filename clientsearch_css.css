@@ -1,0 +1,12 @@
+fieldset {
+      width: 100px;
+      border: 10;
+      
+    }
+    label {
+      display: block;
+      margin: 5px 0 0 0;
+    }
+    .overflow {
+      height: 100px;
+    }
